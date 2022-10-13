@@ -1,0 +1,44 @@
+body {
+  font-family: Poppins, Arial;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(37, 37, 37);
+}
+
+header {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 20px 0;
+  border-bottom: 2px solid rgb(53, 53, 53);
+  width: 100%;
+}
+
+button {
+  font-family: Poppins, Arial;
+  font-size: 15px;
+  border: none;
+  background-color: rgb(53, 131, 155);
+  color: white;
+  padding: 8px 8px;
+  border-radius: 3px;
+}
+
+footer {
+  font-size: 12px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(53, 53, 53);
+  height: 50px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
